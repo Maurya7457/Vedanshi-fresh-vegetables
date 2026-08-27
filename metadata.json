@@ -1,0 +1,6 @@
+{
+  "name": "Vedanshi Fresh",
+  "description": "Blinkit-style online fresh vegetable delivery and seller management app for Vedanshi Fresh with instant WhatsApp and Call ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
